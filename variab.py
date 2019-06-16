@@ -4,3 +4,4 @@ for o in range(1, 5):
 			for t in range(1, 5):
 				if t != o and t != s:
 					print(str(o) + str(s) + str(t)) 
+b = 2

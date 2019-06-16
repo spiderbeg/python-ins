@@ -11,5 +11,9 @@ if a == "yes":
 	else:
 		print("体重正常\n感谢您的使用")
 
+
+
+		                 
+
 else:
 	print("bye~期待与你相见哟")

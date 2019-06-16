@@ -27,3 +27,6 @@ if c:
     print("有重复，请重新生成")
 else:
     print("请放心使用！\n", list5)
+
+import sys
+print(sys.stdout.encoding)
